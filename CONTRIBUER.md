@@ -121,3 +121,4 @@ motif `main`, cocher **« Require a pull request before merging »**
 | [@marcedoun-byte](https://github.com/marcedoun-byte) | administrateur |
 | [@ADKfull-dev](https://github.com/ADKfull-dev) | membre |
 | [@Reine-hub3](https://github.com/Reine-hub3) | membre |
+| [@OBOSSOU-Richard](https://github.com/OBOSSOU-Richard) | membre |
