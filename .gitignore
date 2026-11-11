@@ -1,0 +1,12 @@
+# Données du sujet : à télécharger depuis le Drive du cours, jamais dans le dépôt
+# (dépôt public, et train.csv dépasse la limite de 100 Mo de GitHub)
+*.csv
+!soumission.csv
+donnees/
+Sujet_03_Home_Credit/
+_cache_parquet/
+
+# Environnement Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
